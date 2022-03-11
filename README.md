@@ -8,6 +8,19 @@
   </a>
 </div> 
 
+
+### Main Works
+
+<div align="left">
+  <a href="https://github.com/layessacosta/pigcross">
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=layessacosta&repo=pigcross"/>
+  </a>
+  <a href="https://github.com/layessacosta/jogo-pong">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=layessacosta&repo=jogo-pong"/>
+  </a>
+</div> 
+
+
 ### My Skills
     
 <div style="display: inline_block"><br/>
